@@ -1,8 +1,6 @@
 import subprocess
 from datetime import datetime, timedelta, time
 from time import sleep
-from threading import Thread
-
 
 # play noise at night - cron schedule for 10:00:00 PM
 # turn off at 7:00am
